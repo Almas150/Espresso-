@@ -1,6 +1,4 @@
 package com.example.myapplication;
-
-
 import android.app.Instrumentation;
 import android.content.Context;
 import android.content.Intent;
